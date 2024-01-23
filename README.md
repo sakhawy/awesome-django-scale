@@ -14,16 +14,24 @@
 
 TODO: Sort by topic.
 
+TODO: Specify Django version.
+
+- [Books](#books)
 - [Repositories](#repositories)
 - [Articles and blogs](#articles-and-blogs)
 - [Audio](#audio)
 - [Video](#video)
+
+## Books
+
+- [Building Multi Tenant Applications with Django](https://books.agiliq.com/projects/django-multi-tenant/en/latest/)
 
 ## Repositories
 
 - [Django Cacheback](https://django-cacheback.readthedocs.io/en/latest/): Cacheback is an extensible caching library that refreshes stale cache items asynchronously using a Celery or rq task (utilizing django-rq). The key idea being that it’s better to serve a stale item (and populate the cache asynchronously) than block the response process in order to populate the cache synchronously.
 - [django-bulk-update](https://pypi.org/project/django-bulk-update/): Simple bulk update over Django ORM or with helper function.
 - [django-bulk-load](https://pypi.org/project/django-bulk-load/): Load large batches of Django models into the DB using the Postgres COPY command. This library is a more performant alternative to bulk_create and bulk_update in Django.
+- [django-tenants](https://github.com/django-tenants/django-tenants): This application enables django powered websites to have multiple tenants via PostgreSQL schemas. A vital feature for every Software-as-a-Service (SaaS) website.
 
 ## Articles and blogs
 
@@ -39,4 +47,5 @@ TODO: Sort by topic.
 ## Video
 
 - [Carl Meyer about Django @ Instagram at Django: Under The Hood 2016](https://www.youtube.com/watch?v=lx5WQjXLlq8)
-- [ DjangoCon Europe 2023 | Squeezing Django performance for 14.9 million users on WhatsApp](https://www.youtube.com/watch?v=A_bkbAv9TQs)
+- [DjangoCon Europe 2023 | Squeezing Django performance for 14.9 million users on WhatsApp](https://www.youtube.com/watch?v=A_bkbAv9TQs)
+- [Talk: A thousand Djangoes within (or Django multi-tenant) - Lorenzo Peña](https://www.youtube.com/watch?v=pmBDoC-d9yw)
