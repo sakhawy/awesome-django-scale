@@ -39,6 +39,7 @@ TODO: Specify Django version.
 - [Reining in the thundering herd ⛈ Getting to 80% CPU utilization with Django](https://blog.clubhouse.com/reining-in-the-thundering-herd-with-django-and-gunicorn/)
 - [A Guide to Using pgBouncer for PostgreSQL](https://severalnines.com/blog/guide-using-pgbouncer/)
 - [Scaling Django for millions of users](https://medium.com/@cjgiridhar/scaling-django-for-millions-of-users-7658113e720)
+- [Optimize the Django ORM](https://alldjango.com/articles/optimize-the-django-orm)
 
 ## Audio
 
