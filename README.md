@@ -25,8 +25,8 @@ TODO: Specify Django version.
 ## Books
 
 - [Building Multi Tenant Applications with Django](https://books.agiliq.com/projects/django-multi-tenant/en/latest/)
-- [The Temple of Django Database Performance](https://spellbookpress.com/books/temple-of-django-database-performance/)
-- [Boost Your Django DX](https://adamchainz.gumroad.com/l/byddx)
+- (PAID) [The Temple of Django Database Performance](https://spellbookpress.com/books/temple-of-django-database-performance/)
+- (PAID) [Boost Your Django DX](https://adamchainz.gumroad.com/l/byddx)
   - DX is crucial for large projects.
 
 ## Repositories
