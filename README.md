@@ -25,6 +25,7 @@ TODO: Specify Django version.
 ## Books
 
 - [Building Multi Tenant Applications with Django](https://books.agiliq.com/projects/django-multi-tenant/en/latest/)
+- [The Temple of Django Database Performance](https://spellbookpress.com/books/temple-of-django-database-performance/)
 
 ## Repositories
 
@@ -41,6 +42,7 @@ TODO: Specify Django version.
 - [Scaling Django for millions of users](https://medium.com/@cjgiridhar/scaling-django-for-millions-of-users-7658113e720)
 - [Optimize the Django ORM](https://alldjango.com/articles/optimize-the-django-orm)
 - [Efficient bulk deletions in Django](https://til.simonwillison.net/django/efficient-bulk-deletions-in-django)
+- [Scaling Django with Postgres read replicas](https://andrewbrookins.com/python/scaling-django-with-postgres-read-replicas/)
 
 ## Audio
 
